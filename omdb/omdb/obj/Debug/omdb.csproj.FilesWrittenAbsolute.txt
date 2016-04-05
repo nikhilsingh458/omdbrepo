@@ -1,0 +1,7 @@
+/Users/nikhilsingh/Projects/omdb/omdb/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/nikhilsingh/Projects/omdb/omdb/bin/Debug/omdb.dll.mdb
+/Users/nikhilsingh/Projects/omdb/omdb/bin/Debug/omdb.dll
+/Users/nikhilsingh/Projects/omdb/omdb/obj/Debug/omdb.dll
+/Users/nikhilsingh/Projects/omdb/omdb/obj/Debug/omdb.dll.mdb
+/Users/nikhilsingh/Projects/omdb/omdb/bin/Debug/Xamarin.Forms.Core.dll
+/Users/nikhilsingh/Projects/omdb/omdb/bin/Debug/Xamarin.Forms.Xaml.dll
